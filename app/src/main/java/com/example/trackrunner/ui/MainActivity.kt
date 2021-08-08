@@ -1,8 +1,9 @@
-package com.example.trackrunner
+package com.example.trackrunner.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import com.example.trackrunner.R
 import com.example.trackrunner.db.RunDAO
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
