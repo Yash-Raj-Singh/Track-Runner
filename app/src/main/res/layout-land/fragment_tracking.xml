@@ -7,8 +7,8 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/clInnerLayout"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
+        android:layout_width="264dp"
+        android:layout_height="409dp"
         android:background="@color/md_blue_800"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/mapView"
