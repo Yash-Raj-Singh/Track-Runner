@@ -7,8 +7,8 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/clInnerLayout"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
+        android:layout_width="412dp"
+        android:layout_height="219dp"
         android:background="@color/md_blue_800"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -30,8 +30,8 @@
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btnToggleRun"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="120dp"
+            android:layout_height="60dp"
             android:text="Start"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toStartOf="@+id/btnFinishRun"
