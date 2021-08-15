@@ -12,8 +12,10 @@ object Constants {
     const val ACTION_STOP_SERVICE = "ACTION_STOP_SERVICE"
     const val ACTION_SHOW_TRACKING_FRAGMENT = "ACTION_SHOW_TRACKING_FRAGMENT"
 
+    const val TIMER_UPDATE_INTERVAL = 50L
+
     const val POLYLINE_COLOR = Color.GREEN
-    const val POLYLINE_WIDTH = 8f
+    const val POLYLINE_WIDTH = 10f
     const val MAP_ZOOM = 18f
 
     const val LOCATION_UPDATE_INTERVAL = 3000L
